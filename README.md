@@ -40,22 +40,21 @@ Topologia: Hierárquica (Core/Acesso) com Switch Multilayer L3.
 
 ## 📸 Topologia (Screenshots)
 
-### 1. Visão Geral da Rede (WAN + Filiais)
-<div align="center">
-  <img src="./img/topologia_Geral.png" alt="Topologia Geral - Banco Start" width="900">
-</div>
+| 1. Visão Geral da Rede (WAN + Filiais) |
+| :---: |
+| <img src="./img/topologia_Geral.png" width="900" alt="Topologia Geral"> |
+
 <br>
 
-### 2. Detalhe da Sede (São Paulo - Core Site)
-<div align="center">
-  <img src="./img/topologia_SP.png" alt="Detalhe Sede SP" width="900">
-</div>
+| 2. Detalhe da Sede (São Paulo - Core Site) |
+| :---: |
+| <img src="./img/topologia_SP.png" width="900" alt="Sede SP"> |
+
 <br>
 
-### 3. Detalhe das Filiais (Rio de Janeiro e Brasília)
-<div align="center">
-  <img src="./img/topologia_Filiais.png" alt="Detalhe Filiais" width="900">
-</div>
+| 3. Detalhe das Filiais (Rio de Janeiro e Brasília) |
+| :---: |
+| <img src="./img/topologia_Filiais.png" width="900" alt="Filiais"> |
 
 ## 🚀 Como Executar
 Tenha o Cisco Packet Tracer instalado (versão 8.0 ou superior).
