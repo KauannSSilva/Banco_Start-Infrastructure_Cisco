@@ -42,19 +42,19 @@ Topologia: Hierárquica (Core/Acesso) com Switch Multilayer L3.
 
 ### 1. Visão Geral da Rede (WAN + Filiais)
 <div align="center">
-  <img src="./img.topologias/topologia_Geral.png" alt="Topologia Geral - Banco Start" width="900">
+  <img src="./img/topologia_Geral.png" alt="Topologia Geral - Banco Start" width="900">
 </div>
 <br>
 
 ### 2. Detalhe da Sede (São Paulo - Core Site)
 <div align="center">
-  <img src="./img.topologias/topologia_SP.png" alt="Detalhe Sede SP" width="900">
+  <img src="./img/topologia_SP.png" alt="Detalhe Sede SP" width="900">
 </div>
 <br>
 
 ### 3. Detalhe das Filiais (Rio de Janeiro e Brasília)
 <div align="center">
-  <img src="./img.topologias/topologia_Filiais.png" alt="Detalhe Filiais" width="900">
+  <img src="./img/topologia_Filiais.png" alt="Detalhe Filiais" width="900">
 </div>
 
 ## 🚀 Como Executar
