@@ -40,13 +40,22 @@ Topologia: Hierárquica (Core/Acesso) com Switch Multilayer L3.
 
 ## 📸 Topologia (Screenshots)
 
-Visualizar Topologia Geral
-![Topologia Geral do Banco Start](./img.topologias/topologia_Geral.png)
+### 1. Visão Geral da Rede (WAN + Filiais)
+<div align="center">
+  <img src="./img.topologias/topologia_Geral.png" alt="Topologia Geral - Banco Start" width="900">
+</div>
+<br>
 
-![Topologia Central do Banco Start(SP)](./img.topologias/topologia_SP.jpeg)
+### 2. Detalhe da Sede (São Paulo - Core Site)
+<div align="center">
+  <img src="./img.topologias/topologia_SP.png" alt="Detalhe Sede SP" width="900">
+</div>
+<br>
 
-Visualizar Detalhe da Sede
-![Topologia Filiais do Banco Start](./img.topologias/topologia_Filiais.png)
+### 3. Detalhe das Filiais (Rio de Janeiro e Brasília)
+<div align="center">
+  <img src="./img.topologias/topologia_Filiais.png" alt="Detalhe Filiais" width="900">
+</div>
 
 ## 🚀 Como Executar
 Tenha o Cisco Packet Tracer instalado (versão 8.0 ou superior).
