@@ -43,7 +43,7 @@ Topologia: Hierárquica (Core/Acesso) com Switch Multilayer L3.
 Visualizar Topologia Geral
 ![Topologia Geral do Banco Start](./img.topologias/topologia_Geral.png)
 
-![Topologia Central do Banco Start(SP)](./img.topologias/topologia_SP.png)
+![Topologia Central do Banco Start(SP)](./img.topologias/topologia_SP.jpeg)
 
 Visualizar Detalhe da Sede
 ![Topologia Filiais do Banco Start](./img.topologias/topologia_Filiais.png)
